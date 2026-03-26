@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbhishekYadav44/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AbhishekYadav44/dsa/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
