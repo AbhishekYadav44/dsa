@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AbhishekYadav44/dsa/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
