@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2942-find-words-containing-character](https://github.com/AbhishekYadav44/dsa/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
