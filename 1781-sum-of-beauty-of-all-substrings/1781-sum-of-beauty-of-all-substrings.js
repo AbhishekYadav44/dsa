@@ -5,20 +5,21 @@
 var beautySum = function(s) {
     let ans = 0
     for(let i=0; i<s.length; i++){
-        let map = {};
+       let freq = new Array(26).fill(0)
         for(let j  = i; j<s.length; j++){
             
-            let ch = s[j];
-            if(!map[ch])map[ch] = 0;
-            map[ch]++;
+           
+           let idx = s.charCodeAt(j) - 97;
+           freq[idx]++;
             let max = 0;
-            let min = Infinity
-            for(let key in map){
-                let val = map[key];
-                 max = Math.max(max,val);
-                min  = Math.min(min,val)
+            let min = Infinity;
+           for(let k=0; k<26;k++){
+            if(freq[k]>0){
+              max = Math.max(max,freq[k]);
+              min = Math.min(min,freq[k])
             }
-            ans += max-min;
+           }
+           ans += max-min
 
          
         }
