@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekYadav44/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbhishekYadav44/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhishekYadav44/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -103,6 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhishekYadav44/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/AbhishekYadav44/dsa/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
