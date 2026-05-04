@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekYadav44/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AbhishekYadav44/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekYadav44/dsa/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
