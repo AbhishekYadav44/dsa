@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhishekYadav44/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -101,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
