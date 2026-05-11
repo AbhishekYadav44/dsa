@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhishekYadav44/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbhishekYadav44/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbhishekYadav44/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhishekYadav44/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/AbhishekYadav44/dsa/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhishekYadav44/dsa/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhishekYadav44/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
