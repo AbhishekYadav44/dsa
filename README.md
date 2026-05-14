@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbhishekYadav44/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbhishekYadav44/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekYadav44/dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/AbhishekYadav44/dsa/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
