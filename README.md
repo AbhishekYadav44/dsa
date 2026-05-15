@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
+| [0686-repeated-string-match](https://github.com/AbhishekYadav44/dsa/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/AbhishekYadav44/dsa/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
