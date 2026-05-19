@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/AbhishekYadav44/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AbhishekYadav44/dsa/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/AbhishekYadav44/dsa/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhishekYadav44/dsa/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/AbhishekYadav44/dsa/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
