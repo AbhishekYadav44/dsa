@@ -1,0 +1,189 @@
+1. What is JavaScript and why is it important in MERN?
+2. What is the difference between `var`, `let`, and `const`?
+3. What is the difference between `==` and `===`?
+4. What are primitive and non-primitive data types?
+5. What is hoisting?
+6. What is the difference between `null` and `undefined`?
+7. What is a function? What are common ways to create one?
+8. What is an arrow function?
+9. What is a callback function?
+10. What is a Promise?
+11. What are `async` and `await`?
+12. Synchronous vs asynchronous JavaScript?
+13. What is the event loop?
+14. Difference between `map`, `filter`, `reduce`, and `forEach`?
+15. What is shallow copy vs deep copy?
+16. What is destructuring?
+17. What are spread and rest operators?
+18. What is a closure?
+19. What is scope?
+20. What are event bubbling and capturing?
+What is React.js and why is it used?
+What is a component in React?
+What are props in React?
+What is state in React?
+Difference between props and state?
+What is the Virtual DOM?
+What is JSX?
+Controlled vs uncontrolled components?
+What is useState()?
+What is useEffect()?
+How do the common useEffect dependency forms differ (useEffect(() => {}), useEffect(() => {}, []), useEffect(() => {}, [value]))?
+What is conditional rendering in React?
+Why is key required when rendering lists?
+What is lifting state up?
+What is React Router?
+How do you call a REST API from React?
+Context API vs Redux?
+How can you optimize a React application?
+What is Node.js?
+Why is Node.js used for backend development?
+Is Node.js single-threaded?
+What is Express.js?
+What is middleware in Express.js?
+Difference between app.use(), app.get(), app.post(), app.put(), app.patch(), and app.delete()?
+How do you create a REST API using Express?
+What are common HTTP status codes?
+Difference between GET, POST, PUT, PATCH, and DELETE?
+What is JWT authentication?
+How do you handle errors in Express?
+Explain your MERN project end-to-end.
+
+Arpit Singh 13:05
+yes sir
+
+Sahil Kasaudhan 13:07
+What is the difference between == and ===?
+What is React.js?
+What is a component in React?
+What are props?
+What is state?
+Props vs state?
+What is useState()?
+What is useEffect()?
+How do you call a REST API from React?
+What is Node.js?
+What is Express.js?
+What is middleware in Express?
+How do you create a REST API with Express?
+What are common HTTP status codes?
+Difference between GET, POST, PUT, PATCH, and DELETE?
+What is JWT authentication?
+Explain your MERN project end-to-end.
+
+
+
+muhhe ques ki list chhaiye
+
+Bilkul. Tumhare 30 Sept wale test + jo PYQs tumne diye hain, unke pattern ko dekhkar ye targeted practice list hai. Random LeetCode nahi — mostly same level aur same type ke questions.
+
+🔴 1. Pattern Printing — 15 Questions
+Star Pyramid
+Inverted Star Pyramid
+Diamond Pattern
+Inverted Diamond
+Hollow Square
+Hollow Pyramid
+Number Triangle
+Floyd's Triangle
+Pascal's Triangle
+Number Pyramid
+1
+121
+12321
+Inverted Number Triangle
+Character Triangle
+Character Hourglass
+Number Hourglass
+Butterfly Pattern
+🔴 2. String — 20 Questions
+Count vowels, consonants, digits and spaces
+Count frequency of every character
+Find first non-repeating character
+Find first repeating character
+Check whether two strings are anagrams
+Remove duplicate characters
+Remove duplicate words
+Toggle case of every character
+Capitalize first letter of every word
+Reverse each word of a sentence
+Reverse complete string
+Check palindrome string
+Count number of words
+Find longest word
+Find shortest word
+String compression
+aaabbc → a3b2c1
+Check whether one string is rotation of another
+Find character with maximum frequency
+Replace every space with a special character
+Check whether string contains only digits
+🔴 3. Array — 20 Questions
+Find largest element
+Find smallest element
+Find second largest
+Find second smallest
+Reverse an array
+Rotate array left by k
+Rotate array right by k
+Move all zeros to end
+Move all negative numbers to one side
+Remove duplicates from sorted array
+Remove duplicates from unsorted array
+Find missing number from 1...n
+Find duplicate element
+Find frequency of each element
+Find element occurring maximum times
+Find sum of all elements
+Find pair with given sum
+Find common elements in two arrays
+Merge two arrays
+Add every element with its next element
+🔴 4. Number / Maths — 20 Questions
+Check prime number
+Print primes in a range
+Find first n prime numbers
+Check Armstrong number
+Print Armstrong numbers in a range
+Check Perfect number
+Print Perfect numbers up to n
+Check Strong number
+Print Strong numbers in a range
+Reverse a number
+Check palindrome number
+Count digits
+Sum of digits
+Product of digits
+Find factorial
+Print Fibonacci series
+Find GCD
+Find LCM
+Convert decimal to binary
+Count carries while adding two numbers
+🟡 5. Searching / Sorting — 10 Questions
+Linear Search
+Binary Search
+Find first occurrence
+Find last occurrence
+Bubble Sort
+Selection Sort
+Insertion Sort
+Find kth smallest element
+Find kth largest element
+Merge two sorted arrays
+🟡 6. Basic DSA — 15 Questions
+Implement Stack using array
+Implement Queue using array
+Reverse a Stack
+Check balanced parentheses
+Remove adjacent duplicates from string
+Reverse a Linked List
+Find middle of Linked List
+Detect cycle in Linked List
+Count nodes in Linked List
+Search element in Linked List
+Find maximum depth of Binary Tree
+Inorder traversal
+Preorder traversal
+Postorder traversal
+Level-order traversal
