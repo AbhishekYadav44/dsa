@@ -1,0 +1,172 @@
+# dsa
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AbhishekYadav44/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AbhishekYadav44/dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/AbhishekYadav44/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AbhishekYadav44/dsa/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AbhishekYadav44/dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AbhishekYadav44/dsa/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/AbhishekYadav44/dsa/tree/master/1922-count-good-numbers) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhishekYadav44/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/AbhishekYadav44/dsa/tree/master/0014-longest-common-prefix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhishekYadav44/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhishekYadav44/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbhishekYadav44/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbhishekYadav44/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhishekYadav44/dsa/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
+| [2942-find-words-containing-character](https://github.com/AbhishekYadav44/dsa/tree/master/2942-find-words-containing-character) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhishekYadav44/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhishekYadav44/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbhishekYadav44/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbhishekYadav44/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbhishekYadav44/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekYadav44/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/AbhishekYadav44/dsa/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AbhishekYadav44/dsa/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/AbhishekYadav44/dsa/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/AbhishekYadav44/dsa/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AbhishekYadav44/dsa/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
+| [0686-repeated-string-match](https://github.com/AbhishekYadav44/dsa/tree/master/0686-repeated-string-match) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/AbhishekYadav44/dsa/tree/master/1903-largest-odd-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/AbhishekYadav44/dsa/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/AbhishekYadav44/dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/AbhishekYadav44/dsa/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/AbhishekYadav44/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/AbhishekYadav44/dsa/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekYadav44/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AbhishekYadav44/dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/AbhishekYadav44/dsa/tree/master/1903-largest-odd-number-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AbhishekYadav44/dsa/tree/master/0410-split-array-largest-sum) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/AbhishekYadav44/dsa/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/AbhishekYadav44/dsa/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhishekYadav44/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/AbhishekYadav44/dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+| [2784-check-if-array-is-good](https://github.com/AbhishekYadav44/dsa/tree/master/2784-check-if-array-is-good) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/AbhishekYadav44/dsa/tree/master/0767-reorganize-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AbhishekYadav44/dsa/tree/master/0451-sort-characters-by-frequency) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekYadav44/dsa/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/AbhishekYadav44/dsa/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/AbhishekYadav44/dsa/tree/master/1922-count-good-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhishekYadav44/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AbhishekYadav44/dsa/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/AbhishekYadav44/dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/AbhishekYadav44/dsa/tree/master/0541-reverse-string-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AbhishekYadav44/dsa/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhishekYadav44/dsa/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhishekYadav44/dsa/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/AbhishekYadav44/dsa/tree/master/0394-decode-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhishekYadav44/dsa/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhishekYadav44/dsa/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/AbhishekYadav44/dsa/tree/master/2553-separate-the-digits-in-an-array) |
+<!---LeetCode Topics End-->
